@@ -3,7 +3,7 @@ entries:
   license:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-15T14:33:37.079721431Z"
+    created: "2024-04-15T14:48:20.784076762Z"
     description: A Helm chart for Kubernetes
     digest: f7e11124c66f775256814c645af91b626664e9ccbefc0f54aa71dc0d184d3707
     name: license
@@ -11,4 +11,4 @@ entries:
     urls:
     - license-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-15T14:33:37.07898821Z"
+generated: "2024-04-15T14:48:20.756914532Z"
