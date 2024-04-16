@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   license:
   - apiVersion: v2
-    appVersion: 0.0.1
-    created: "2024-04-15T15:00:33.390433923Z"
+    appVersion: 1.16.0
+    created: "2024-04-16T08:53:10.240310501Z"
     description: A Helm chart for Kubernetes
-    digest: 40697a49660713821060b89740d83b74819415f6f0f7b3115679174272054c5d
+    digest: b31501007f40a6638e0f26ee9610b129814fd040a1dc55cbd341ecb3ede0873c
     name: license
     type: application
     urls:
     - license-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-15T15:00:33.389306818Z"
+generated: "2024-04-16T08:53:10.216669815Z"
